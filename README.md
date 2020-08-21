@@ -1,12 +1,10 @@
 # Raspberry PI
- 
- Some open source ideas for the Pi
+Some open source ideas for the Pi
 
 <hr>
 
 ## GH-ActionPi
-
- Github Actions CI/CD for a raspberry Pi endpoint
+Github Actions CI/CD for a raspberry Pi endpoint
 
 ### Inputs
 
